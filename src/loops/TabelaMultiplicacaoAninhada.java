@@ -11,6 +11,7 @@ public class TabelaMultiplicacaoSimples {
                     System.out.printf("%4d", i*j);
             }
         }
+
         
     }
     }
