@@ -3,13 +3,15 @@
 Projeto em **Java** que implementa um conversor de temperatura via console. Suporta conversões entre 4 escalas diferentes com resultados precisos e interface simples.
 
 ---
+## 🎯 Funcionalidades
 
-## Funcionalidades
-
+### Escalas Suportadas
 - **Celsius (°C)**
 - **Fahrenheit (°F)**
 - **Kelvin (K)**
 - **Rankine (°R)**
+
+---
 
 ### Recursos
 - 12 tipos de conversão (todas as combinações entre as escalas)  
