@@ -10,3 +10,10 @@ class Game{
             price = 0.00;
         }
     }
+
+    void showInfo(){
+        System.out.println("Name: " + name);
+        System.out.println("Genre: " + genre);
+        System.out.println("Price: " + price);
+    }
+}
