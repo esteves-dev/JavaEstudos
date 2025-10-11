@@ -16,3 +16,9 @@ class Car{
             speed = 0;
         }
     }
+
+    void showInfo(){
+        System.out.printf("%s %s %d %s \n", brand, model, year, color);
+        System.out.println("Speed: " + speed);
+    }
+}
