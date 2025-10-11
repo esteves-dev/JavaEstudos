@@ -7,4 +7,3 @@ Simulação de comportamentos de carro com aceleração e frenagem.
 - Método accelerate() para aumentar velocidade
 - Método brake() para reduzir velocidade (com validação)
 - Controle para evitar velocidade negativa
-
